@@ -38,7 +38,7 @@ image:
 imagePullSecrets: []
 
 server:
-  workers: 5
+  workers: 2
   node:
     environment: production
     dataDir: /data/trino
